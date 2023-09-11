@@ -1,2 +1,3 @@
 # akshay-demo
-this is my git repository,
+this is my git repository.\n
+author-akshay
